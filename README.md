@@ -1,3 +1,4 @@
 # hello-world
 1st try
-A bit about me following the tutorial.  I'm a retiring electrical engineer with ham radio callsign KT7D.
+
+Trying to follow the tutorial by adding a bit about me.  I'm a retiring electrical engineer with ham radio callsign KT7D.
